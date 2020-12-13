@@ -1,0 +1,15 @@
+
+.header {
+font-family:"Times New Roman", monospace;
+}
+
+.block{
+  background-color:lightblue
+  width: 35%;
+  height: 35%;
+}
+/* headshot imagr*/
+img{
+  border-radius: 90%;
+  margin-top: auto;
+}
